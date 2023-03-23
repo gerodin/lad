@@ -1,2 +1,0 @@
-# lad
-repostory for LAD
